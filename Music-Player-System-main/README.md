@@ -11,7 +11,7 @@ Functions in The Music Player :
 
   # Screenshot
 
-  <img width="701" alt="MUSIC-1" src="https://github.com/user-attachments/assets/99a7309f-b8f1-4d1d-a1f7-25324bdcdc10">
+  <img width="1001" alt="MUSIC-1" src="https://github.com/user-attachments/assets/99a7309f-b8f1-4d1d-a1f7-25324bdcdc10">
 
   
 
