@@ -11,6 +11,7 @@ Functions in The Music Player :
 
   # Screenshot
 
-  <img width="701" alt="MUSIC-1" src="https://github.com/sanyam40/Music-Player-System/assets/87993985/818723c9-1949-492a-91c4-12e088b5f70e">
+  <img width="701" alt="MUSIC-1" src="https://github.com/user-attachments/assets/99a7309f-b8f1-4d1d-a1f7-25324bdcdc10">
 
   
+
