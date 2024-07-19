@@ -82,3 +82,6 @@ TRACK -> My Favorite Song IS PLAYING CURRENTLY
 WANT TO CHANGE TRACK? Y(1)/N(0): 0
 OK!! THANKS
 ```
+
+**SCREENSHOT**
+<img width="1001" alt="MUSIC-1" src="https://github.com/user-attachments/assets/34ecd175-3291-4077-a465-beed6f5b9ffe">
