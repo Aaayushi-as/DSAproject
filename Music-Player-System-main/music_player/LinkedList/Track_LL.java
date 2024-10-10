@@ -64,7 +64,7 @@ public class Track_LL{
         for(i=1;i!=n;i++){
             temp=temp.next;
         }
-        if(temp.prev!=null){
+        if(temp.next!=null){
             tt=temp.next.data;
             return tt;
         }
